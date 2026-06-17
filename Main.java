@@ -1,23 +1,4 @@
-/*
- Name: Nowah Stewart
- Pace Email: ns23285n@pace.edu
 
- Based on YOUR implementation:
-
- What is the Big O of "add" and why?
-    The Big O is O(1) beacuse the only instruction that is happening is that an item is being added to the end of the array which is a constant time.
-
- What is the Big O of "print" and why?
-    O(N) because it is iterating through the list one time to get each of the items print statements.
-
- What is the Big O of "lookup" and why?
-    O(N) because it is iterating through the array one time to see if any of the elements match to the search.
-
- What is the best case runtime of "sort" and what kind of input would cause that?
-    The best case runtime for sort is nlog(n), depending on which element is chosen as the pivot. If the pivot element allows for less comparisons to be made, 
-    the runtime of nlog(n) will run faster.
-
- */
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
