@@ -1,3 +1,7 @@
 # Luxury-Finds
 A website I created for my web development class focusing on drop down menu options, sorting and filtering! Feel free to give it a whirl
 Site: https://nstewart.pythonanywhere.com/project3
+## Screenshots
+![home screen](images/Home page.png)
+![Filter 1](images/filter 1.png)
+![Filter 2](images/filter 2.png)
